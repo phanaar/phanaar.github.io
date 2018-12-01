@@ -353,6 +353,8 @@ footer {
 
 footer p {
     margin: 0;
+    text-align: right;
+    font-size: xx-small;
 }
 
 ::-moz-selection {
