@@ -1,0 +1,19 @@
+# Site settings
+email: your-email@domain.com
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary-dark: '#000000'
+  links: '#219ab3'
+
+# Footer settings
+footer: Phanaar
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: facebook
+    url: https://www.facebook.com/Phanaar-129206641035188/
+
+# Build settings
+markdown: kramdown
+permalink: pretty
